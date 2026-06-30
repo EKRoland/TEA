@@ -507,10 +507,10 @@ impl eframe::App for App {
                                 });
                             }
 
-                            if ui.button("💾 Code Source (.zip)").on_hover_text("Télécharger le code source du projet").clicked() {
+                            if ui.button("💾 Simulation Code (.zip)").on_hover_text("Télécharger le code source du projet").clicked() {
                                 ui.ctx().output_mut(|o| {
                                     o.open_url = Some(egui::output::OpenUrl {
-                                        url: "assets/code.zip".to_string(),
+                                        url: "https://github.com/EKRoland/TEA/tree/main/codes".to_string(),
                                         new_tab: false,
                                     });
                                 });
