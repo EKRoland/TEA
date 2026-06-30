@@ -1,0 +1,1074 @@
+
+
+[[best]]
+rows = 3
+cols = 3
+
+    [[best.solution]]
+    name = "Solution 1"
+    steps = 17
+    ant = [0, 0, 1]
+
+    grid = [
+                "000",
+                "100",
+                "002",
+        ]
+
+
+[[best]]
+rows = 3
+cols = 4
+
+    [[best.solution]]
+    name = "Solution 1"
+    steps = 28
+    ant = [0, 0, 1]
+
+    grid = [
+        "0001",
+        "1011",
+        "0000",
+        ]
+
+
+[[best]]
+rows = 3
+cols = 5
+
+    [[best.solution]]
+    name = "Solution 1"
+    steps = 37
+    ant = [0, 0, 1]
+
+    grid = [
+        "00010",
+        "10110",
+        "00002",
+        ]
+
+
+
+[[best]]
+rows = 3
+cols = 6
+
+    [[best.solution]]
+    name = "Solution 1"
+    steps = 48
+    ant = [0, 0, 1]
+
+    grid = [
+        "000101",
+        "101111",
+        "000000",
+        ]
+
+
+[[best]]
+rows = 3
+cols = 7
+
+    [[best.solution]]
+    name = "Solution 1"
+    steps = 57
+    ant = [0, 0, 1]
+
+    grid = [
+        "0001010",
+        "1011110",
+        "0000002",
+    ]
+
+[[best]]
+rows = 3
+cols = 8
+
+    [[best.solution]]
+    name = "Solution 1"
+    steps = 68
+    ant = [0, 0, 1]
+
+    grid = [
+    "00010101",
+    "10111111",
+    "00000000",
+    ]
+
+
+
+[[best]]
+rows = 3
+cols = 9
+
+    [[best.solution]]
+    name = "Solution 1"
+    steps = 77
+    ant = [0, 0, 1]
+
+    grid = [
+        "000101010",
+        "101111110",
+        "000000002",
+    ]
+
+[[best]]
+rows = 3
+cols = 10
+
+    [[best.solution]]
+    name = "Solution 1"
+    steps = 88
+    ant = [0, 0, 1]
+
+    grid = [
+        "0001010101",
+        "1011111111",
+        "0000000000"
+    ]
+
+
+[[best]]
+rows = 3
+cols = 11
+
+    [[best.solution]]
+    name = "Solution 1"
+    steps = 97
+    ant = [0, 0, 1]
+
+    grid = [
+        "00010101010",
+        "10111111110",
+        "00000000002",
+    ]
+
+[[best]]
+rows = 3
+cols = 12
+
+    [[best.solution]]
+    name = "Solution 1"
+    steps = 108
+    ant = [0, 0, 1]
+
+    grid = [
+        "000101010101",
+        "101111111111",
+        "000000000000"
+    ]
+
+
+
+[[best]]
+rows = 3
+cols = 13
+
+    [[best.solution]]
+    name = "Solution 1"
+    steps = 117
+    ant = [0, 0, 1]
+
+    grid = [
+        "0001010101010",
+        "1011111111110",
+        "0000000000002",
+    ]
+
+[[best]]
+rows = 3
+cols = 14
+
+    [[best.solution]]
+    name = "Solution 1"
+    steps = 128
+    ant = [0, 0, 1]
+
+    grid = [
+        "00010101010101",
+        "10111111111111",
+        "00000000000000"
+    ]
+
+
+
+
+[[best]]
+rows = 3
+cols = 15
+
+    [[best.solution]]
+    name = "Solution 1"
+    steps = 137
+    ant = [0, 0, 1]
+
+    grid = [
+        "000101010101010",
+        "101111111111110",
+        "000000000000002",
+    ]
+
+[[best]]
+rows = 3
+cols = 16
+
+    [[best.solution]]
+    name = "Solution 1"
+    steps = 148
+    ant = [0, 0, 1]
+
+    grid = [
+        "0001010101010101",
+        "1011111111111111",
+        "0000000000000000"
+    ]
+
+
+[[best]]
+rows = 3
+cols = 17
+
+    [[best.solution]]
+    name = "Solution 1"
+    steps = 157
+    ant = [0, 0, 1]
+
+    grid = [
+        "00010101010101010",
+        "10111111111111110",
+        "0000000000000002",
+    ]
+
+[[best]]
+rows = 3
+cols = 18
+
+    [[best.solution]]
+    name = "Solution 1"
+    steps = 168
+    ant = [0, 0, 1]
+
+    grid = [
+        "000101010101010101",
+        "101111111111111111",
+        "000000000000000000"
+    ]
+
+
+
+[[best]]
+rows = 3
+cols = 19
+
+    [[best.solution]]
+    name = "Solution 1"
+    steps = 177
+    ant = [0, 0, 1]
+
+    grid = [
+        "0001010101010101010",
+        "1011111111111111110",
+        "000000000000OO00002",
+    ]
+
+[[best]]
+rows = 3
+cols = 20
+
+    [[best.solution]]
+    name = "Solution 1"
+    steps = 188
+    ant = [0, 0, 1]
+
+    grid = [
+        "00010101010101010101",
+        "10111111111111111111",
+        "00000000000000000000"
+    ]
+
+
+
+[[best]]
+rows = 4
+cols = 4
+
+    [[best.solution]]
+    name = "Solution 1"
+    steps = 46
+    ant = [0, 0, 1]
+
+    grid = [
+    "0001",
+    "1011",
+    "0010",
+    "1001",
+        ]
+
+
+    [[best.solution]]
+    name = "Solution 2"
+    steps = 46
+    ant = [3, 0, 1]
+
+    grid = [
+    "0110",
+    "1101",
+    "0100",
+    "1110",
+        ]
+
+
+[[best]]
+rows = 4
+cols = 5
+
+    [[best.solution]]
+    name = "Solution 1"
+    steps = 64
+    ant = [0, 0, 2]
+
+    grid = [
+    "10101",
+    "01111",
+    "00010",
+    "01001",
+        ]
+
+
+
+[[best]]
+rows = 4
+cols = 6
+
+    [[best.solution]]
+    name = "Solution 1"
+    steps = 86
+    ant = [0, 1, 2]
+
+    grid = [
+    "110001",
+    "011011",
+    "110010",
+    "101001",
+        ]
+
+    [[best.solution]]
+    name = "Solution 2"
+    steps = 86
+    ant = [0, 0, 1]
+
+    grid = [
+    "000101",
+    "101111",
+    "000010",
+    "101001",
+        ]
+
+
+
+
+
+[[best]]
+rows = 4
+cols = 7
+
+
+    [[best.solution]]
+    name = "Solution 1"
+    steps = 104
+    ant=[0, 0, 2]
+    grid = [
+        "1010101",
+        "0111111",
+        "0000010",
+        "0101001",
+        ]
+
+
+
+[[best]]
+rows = 4
+cols = 8
+
+    [[best.solution]]
+    name = "Solution 1"
+    steps = 146
+    ant=[0, 1, 2]
+    grid = [
+        "11000101",
+        "01101111",
+        "11000010",
+        "10101001",
+        ]
+
+
+
+[[best]]
+rows = 4
+cols = 9
+
+    [[best.solution]]
+    name = "Solution 1"
+    steps = 156
+    ant=[0, 1, 2]
+    grid = [
+        "110111110",
+        "011000101",
+        "010000100",
+        "001000110",
+        ]
+
+[[best]]
+rows = 4
+cols = 10
+
+    [[best.solution]]
+    name = "Solution 1"
+    steps = 206
+    ant=[0, 1, 2]
+
+    grid = [
+        "1100010101",
+        "0110111111",
+        "1100000010",
+        "1010101001",
+        ]
+
+
+[[best]]
+rows = 4
+cols = 11
+
+    [[best.solution]]
+    name = "Solution 1"
+    steps = 224 
+    ant=[0, 1, 2]
+
+    grid = [
+        "11011111110",
+        "01100010101",
+        "01000010100",
+        "00100000110",
+        ]
+
+
+[[best]]
+rows = 4
+cols = 12
+
+    [[best.solution]]
+    name = "Solution 1"
+    steps = 266
+    ant=[0, 1, 2]
+
+    grid = [
+        "110001010101",
+        "011011111111",
+        "110000000010",
+        "101010101001",
+        ]
+
+
+
+[[best]]
+rows = 4
+cols = 13
+
+    [[best.solution]]
+    name = "Solution 1"
+    steps = 292
+    ant=[0, 1,2]
+
+    grid = [
+        "1101111111110",
+        "0110001010101",
+        "0100001010100",
+        "0010000000110",
+        ]
+
+
+[[best]]
+rows = 4
+cols = 14
+
+    [[best.solution]]
+    name = "Solution 1"
+    steps = 326
+    ant=[0, 1, 2]
+
+    grid = [
+        "11011111111001",
+        "01100010101011",
+        "01000010101010",
+        "00100000000000",
+        ]
+
+
+
+[[best]]
+rows = 4
+cols = 15
+
+    [[best.solution]]
+    name = "Solution 1"
+    steps = 360
+    ant=[0, 1, 2]
+
+    grid = [
+        "110111111111110",
+        "011000101010101",
+        "010000101010100",
+        "001000000000110",
+        ]
+
+
+
+
+[[best]]
+rows = 4
+cols = 16
+
+    [[best.solution]]
+    name = "Solution 1"
+    steps = 394
+    ant=[0, 1, 2]
+
+    grid = [
+        "1101111111111001",
+        "0110001010101011",
+        "0100001010101010",
+        "0010000000000000",
+        ]
+
+
+[[best]]
+rows = 4
+cols = 17
+
+    [[best.solution]]
+    name = "Solution 1"
+    steps = 428
+    ant=[0, 1, 2]
+
+    grid = [
+        "11011111111111110",
+        "01100010101010101",
+        "01000010101010100",
+        "00100000000000110",
+        ]
+
+
+
+
+[[best]]
+rows = 4
+cols = 18
+
+    [[best.solution]]
+    name = "Solution 1"
+    steps = 462
+    ant=[0, 1, 2]
+    grid = [
+        "110111111111111001",
+        "011000101010101011",
+        "010000101010101010",
+        "001000000000000000",
+        ]
+
+
+
+
+[[best]]
+rows = 5
+cols = 5
+
+    [[best.solution]]
+    name = "Solution 1"
+    steps = 85
+    ant = [2, 0, 1]
+
+    grid = [
+        "11112",
+        "01101",
+        "11101",
+        "00010",
+        "01001",
+        ]
+
+    
+
+
+
+[[best]]
+rows = 5
+cols = 6
+
+    [[best.solution]]
+    name = "Solution 1"
+    steps = 130
+    ant=[0, 0, 2]
+
+    grid = [
+        "101110",
+        "011001",
+        "011001",
+        "110010",
+        "101001",
+    ]
+
+
+
+
+[[best]]
+rows = 5
+cols = 7
+
+    [[best.solution]]
+    name = "Solution 1"
+    steps = 145
+    ant=[0, 0, 2]
+    grid = [
+        "1011100",
+        "0111110",
+        "1111101",
+        "0100000",
+        "0011010",
+    ]
+
+
+
+[[best]]
+rows = 5
+cols = 8
+
+    [[best.solution]]
+    name = "Solution 1"
+    steps = 214
+    ant=[0, 0, 2]
+    grid = [
+        "10111110",
+        "01100101",
+        "01100101",
+        "11000010",
+        "10101001",
+    ]
+
+
+
+
+[[best]]
+rows = 5
+cols = 9
+
+    [[best.solution]]
+    name = "Solution 1"
+    steps = 221
+    ant=[0, 0, 1]
+    grid = [
+        "010000110",
+        "100011101",
+        "010111010",
+        "101001010",
+        "010010000",
+    ]
+
+
+
+
+[[best]]
+rows = 5
+cols = 10
+
+    [[best.solution]]
+    name = "Solution 1"
+    steps = 298
+    ant=[0, 0, 2]
+    grid = [
+        "1011111110",
+        "0110010101",
+        "0110010101",
+        "1100000010",
+        "1010101001",
+    ]
+
+
+
+
+
+
+
+[[best]]
+rows = 5
+cols = 11
+
+    [[best.solution]]
+    name = "Solution 1"
+    steps = 306
+    ant=[0, 3, 2]
+    grid = [
+        "10101100010",
+        "00000100101",
+        "00100100000",
+        "10100100000",
+        "01001111100",
+    ]
+
+
+
+[[best]]
+rows = 5
+cols = 12
+
+    [[best.solution]]
+    name = "Solution 1"
+    steps = 382
+    ant=[0, 0, 2]
+    grid = [
+        "101111111110",
+        "011001010101",
+        "011001010101",
+        "110000000010",
+        "101010101001",
+    ]
+
+
+
+
+[[best]]
+rows = 5
+cols = 13
+
+    [[best.solution]]
+    name = "Solution 1"
+    steps = 402
+    ant=[0, 3, 2]
+    grid = [
+        "1010111100010",
+        "0000010100101",
+        "0010010100000",
+        "1010010000000",
+        "0100111011100",
+    ]
+
+
+
+
+
+[[best]]
+rows = 6
+cols = 6
+
+    [[best.solution]]
+    name = "Solution 1"
+    steps = 164
+    ant=[2, 0, 1]
+    grid = [
+        "001001",
+        "010000",
+        "000000",
+        "101101",
+        "000010",
+        "101001",
+    ]
+
+    [[best.solution]]
+    name = "Solution 2"
+    steps = 164
+    ant=[0, 0, 1]
+    grid = [
+        "011002",
+        "100110",
+        "000001",
+        "011011",
+        "110010",
+        "101001",
+    ]
+
+
+
+
+
+[[best]]
+rows = 6
+cols = 7
+
+    [[best.solution]]
+    name = "Solution 1"
+    steps = 220
+    ant = [0, 0, 2]
+
+    grid = [
+            "1011002",
+            "0110010",
+            "0010111",
+            "0101101",
+            "1010010",
+            "1101001",
+    ]
+
+
+    
+
+
+[[best]]
+rows = 6
+cols = 8
+
+    [[best.solution]]
+    name = "Solution 1"
+    steps = 280
+    ant = [2, 0, 1]
+
+    grid = [
+            "20100002",
+            "01000010",
+            "00000001",
+            "10110111",
+            "00000010",
+            "10101001",
+    ]
+
+
+
+
+
+
+[[best]]
+rows = 6
+cols = 9
+
+    [[best.solution]]
+    name = "Solution 1"
+    steps = 315
+    ant=[2, 0, 1]
+    grid = [
+        "111100100",
+        "010000101",
+        "111111010",
+        "101000011",
+        "011001101",
+        "000000010",
+    ]
+
+
+    [[best.solution]]
+    name = "Solution 2"
+    steps = 315
+    ant=[0, 3, 2]
+
+    grid = [
+        "101000010",
+        "000010101",
+        "100001011",
+        "001011010",
+        "010000101",
+        "101110010",
+    ]
+
+
+
+
+[[best]]
+rows = 6
+cols = 10
+
+    [[best.solution]]
+    name = "Solution 1"
+    steps = 404
+    ant=[2, 0, 1]
+
+    grid = [
+        "0010001100",
+        "0100000010",
+        "0000000001",
+        "1011010111",
+        "0000001010",
+        "1010100101",
+    ]
+
+
+
+
+[[best]]
+rows = 6
+cols = 11
+
+    [[best.solution]]
+    name = "Solution 1"
+    steps = 464
+    ant=[0, 0, 2]
+    grid = [
+        "10000111101",
+        "11011110010",
+        "11100000000",
+        "01011000101",
+        "10100111110",
+        "00111011011",
+    ]
+
+
+
+
+[[best]]
+rows = 7
+cols = 7
+
+    [[best.solution]]
+    name = "Solution 1"
+    steps=262
+    ant = [1, 0, 1]
+
+    grid = [
+            "0100101",
+            "0001110",
+            "1011100",
+            "0111011",
+            "1000000",
+            "0101101",
+            "2000112",
+    ]
+
+
+    [[best.solution]]
+    name = "Solution 2"
+    steps=262
+    ant = [0, 0, 1]
+
+    grid = [
+            "0100000",
+            "1000101",
+            "1101011",
+            "0010001",
+            "0100001",
+            "1010010",
+            "2100002",
+    ]
+
+
+
+
+
+[[best]]
+rows = 7
+cols = 8
+
+    [[best.solution]]
+    name = "Solution 1"
+    steps = 356
+    ant = [0, 0, 1]
+
+    grid = [
+            "01101102",
+            "10010010",
+            "00001001",
+            "01111111",
+            "01011111",
+            "10101101",
+            "21000110",
+    ]
+
+
+
+[[best]]
+rows = 7
+cols = 9
+
+    [[best.solution]]
+    name = "Solution 1"
+    steps = 410
+    ant = [0, 0, 2]
+
+    grid = [
+            "101111001",
+            "011001011",
+            "001011110",
+            "101110010",
+            "001110000",
+            "010110101",
+            "101000111",
+    ]
+
+
+
+
+[[best]]
+rows = 8
+cols = 8
+
+    [[best.solution]]
+    name = "Solution 1"
+    steps = 488
+    ant=[1,0,1]
+
+    grid = [
+        "21111012",
+        "01111101",
+        "10011010",
+        "00011101",
+        "10100101",
+        "11001010",
+        "10100101",
+        "21001012",
+    ]
+
+
+
+[[best]]
+rows = 8
+cols = 9
+
+    [[best.solution]]
+    name = "Solution 1"
+    steps = 618
+    ant = [3, 0, 1]
+
+    grid = [
+            "011011102",
+            "111111110",
+            "010001101",
+            "111101111",
+            "101110010",
+            "011111001",
+            "101111010",
+            "211100101",
+    ]
+
+
+
+    [[best.solution]]
+    name = "Solution 2"
+    steps = 618
+    ant = [1, 0, 1]
+    grid = [
+            "010110001",
+            "001111010",
+            "100111101",
+            "110100010",
+            "111100000",
+            "010000001",
+            "101001010",
+            "000000011",
+    ]
+
+
+
+[[best]]
+rows = 9
+cols = 9
+
+    [[best.solution]]
+    name = "Solution 1"
+    steps = 679
+    ant = [1, 0, 1]
+
+    grid = [
+            "210101102",
+            "001111010",
+            "101010001",
+            "011111010",
+            "101001001",
+            "101111000",
+            "100011010",
+            "010110100",
+            "200111110",
+    ]

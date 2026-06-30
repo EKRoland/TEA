@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TEA, The Escaping Ant</title>
+
+    <link rel="rust" data-wasm-output-name="the_escaping_ant" />
+
+    <style>
+        /* Configuration du style pour que le canvas prenne tout l'écran */
+        html, body {
+            margin: 0;
+            padding: 0;
+            width: 100%;
+            height: 100%;
+            overflow: hidden;
+            background-color: #1a1a1a;
+        }
+        canvas {
+            width: 100%;
+            height: 100%;
+        }
+    </style>
+<link rel="modulepreload" href="/tea-601a8a68375be5a2.js" crossorigin="anonymous" integrity="sha384-U8mvMW8wH9QE1y0rEAW+amp+tZXJEZ8k/Yw0/vNQY8UXNFC3hoa6ngenysN1d+75"><link rel="preload" href="/tea-601a8a68375be5a2_bg.wasm" crossorigin="anonymous" integrity="sha384-6WQY6Qh/SiHbSIXugGz5eD+tkWuwKgcMk8sNKBHGeOIw6IktOgxds1vonyWeoRYw" as="fetch" type="application/wasm"></head>
+<body>
+    <canvas id="the_canvas_id"></canvas>
+
+<script type="module">
+import init, * as bindings from '/tea-601a8a68375be5a2.js';
+const wasm = await init({ module_or_path: '/tea-601a8a68375be5a2_bg.wasm' });
+
+
+window.wasmBindings = bindings;
+
+
+dispatchEvent(new CustomEvent("TrunkApplicationStarted", {detail: {wasm}}));
+
+</script></body>
+</html>
